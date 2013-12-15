@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'SEGOEUIL';
+	src: url('font/SEGOEUIL.eot');
+	src: local('SEGOEUIL'), url('font/SEGOEUIL.woff') format('woff'), url('font/SEGOEUIL.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1409">Text with this font applied</p> */
+.fontsforweb_fontid_1409 {
+	font-family: 'SEGOEUIL' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
+
+@font-face {
+    font-family: 'BebasRegular';
+    src: url('font/BEBAS___-webfont.eot');
+    src: url('font/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/BEBAS___-webfont.woff') format('woff'),
+         url('font/BEBAS___-webfont.ttf') format('truetype'),
+         url('font/BEBAS___-webfont.svg#BebasRegular') format('svg');
+    
+
+}
